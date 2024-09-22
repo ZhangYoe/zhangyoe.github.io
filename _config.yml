@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "zhangyong/ Site Title"
+title                    : "zhangyong/dsafe"
 title_separator          : "-"
 name                     : &name "zhangyong"
 description              : &description "personal description"
