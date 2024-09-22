@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "zhangyong/dsafe"
+title                    : "Zhang Yong/CV"
 title_separator          : "-"
 name                     : &name "zhangyong"
 description              : &description "personal description"
